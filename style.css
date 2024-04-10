@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(177, 177, 237);
+}
+
+section {
+  background-color: rgb(46, 46, 244);
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  height: 90px;
+  width: 100%;
+  position: fixed;
+}
+
+.Flexbox {
+  margin-top: 23px;
+  font-family: sans-serif;
+  font-size: 20px;
+  margin-left: 250px;
+}
+
+.project {
+  display: flex;
+  list-style-type: none;
+  margin-top: 30px;
+  font-family: sans-serif;
+  margin-right: 300px;
+}
+
+.project li {
+  margin-left: 20px;
+}
+
+article {
+  background-color: rgb(22, 22, 123);
+}
+
+.frone {
+  color: white;
+  font-family: sans-serif;
+  margin-top: 250px;
+  margin-left: 90px;
+}
+
+.frone h1 {
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+
+.frone p {
+  font-size: 16px;
+}
+
+.prone {
+  display: flex;
+}
+
+.prone img {
+  margin-left: 120px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+main {
+  display: flex;
+  margin-top: 50px;
+  margin-left: 120px;
+}
+
+.victor {
+  background-color: rgb(52, 52, 249);
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 400px;
+  height: 200px;
+  margin-bottom: 20px;
+  border-radius: 5%;
+}
+
+.victor p {
+  margin-left: 20px;
+  color: #fff;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+.samuel {
+  display: flex;
+  color: white;
+}
+
+.samuel h1 {
+  font-family: sans-serif;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+
+.samuel i {
+  margin-top: 30px;
+  margin-left: 30px;
+  margin-right: 10px;
+  font-size: 20px;
+}
